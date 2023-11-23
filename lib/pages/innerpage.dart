@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:wallpaper_app/components/appbar.dart';
-import 'package:wallpaper_app/components/wallpaperGrid.dart';
 
 class InnerPage extends StatelessWidget {
   const InnerPage({super.key});
